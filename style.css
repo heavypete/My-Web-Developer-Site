@@ -1,0 +1,18 @@
+* {
+  font-family: "Syne", sans-serif;
+}
+body {
+  background-color: #d7f9ff;
+}
+
+img {
+  border: 2ex;
+  padding: 5ex;
+  margin: 5ex;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
